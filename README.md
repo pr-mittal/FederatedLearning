@@ -14,14 +14,14 @@ distributed algorithm that enables the organizations to achieve the NE of the ga
 
 ![Slides-9](./assets/Slides-9.jpg)
 
-![Slides-10](.\assets\Slides-10.jpg)
+![Slides-10](./assets/Slides-10.jpg)
 
-![Slides-12](.\assets\Slides-12.jpg)
+![Slides-12](./assets/Slides-12.jpg)
 
-![Slides-17](.\assets\Slides-17.jpg)
+![Slides-17](./assets/Slides-17.jpg)
 
-![Slides-18](.\assets\Slides-18.jpg)
+![Slides-18](./assets/Slides-18.jpg)
 
-![Slides-19](.\assets\Slides-19.jpg)
+![Slides-19](./assets/Slides-19.jpg)
 
-![Slides-19](.\assets\Slides-19.jpg)
+![Slides-19](./assets/Slides-19.jpg)
