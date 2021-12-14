@@ -12,7 +12,7 @@ a distributed algorithm that enables the organizations to maximize the social we
 **Objective #4**
 distributed algorithm that enables the organizations to achieve the NE of the game without knowing the private information of each other.
 
-![Slides-9](.\assets\Slides-9.jpg)
+![Slides-9](./assets/Slides-9.jpg)
 
 ![Slides-10](.\assets\Slides-10.jpg)
 
